@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi, I'm Joo.
+[he/him]
+
+I've been passionate about writing good (or interesting) code since 2017. React is my strength, but I also tend to try out anything that's hip and new. 
+
+You can reach me on [LinkedIn](https://www.linkedin.com/in/joobacca/), [Instagram](https://www.instagram.com/joobacca2/) or the plain old [✉️](mailto:kontakt@joohan.kim). 
+
+Happy coding!
+
+![Image](https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif)
 
 <!--
 **joobacca/joobacca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
